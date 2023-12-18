@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 This is my academic profile
+
+Here are my school / academic projects. If you want to see my other work go to profile [jakpop11](https://github.com/jakpop11)
 
 <!--
 ## Headers
