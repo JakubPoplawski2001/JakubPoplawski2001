@@ -40,3 +40,5 @@
 ## Installation
 
 ## How to use
+
+## License
