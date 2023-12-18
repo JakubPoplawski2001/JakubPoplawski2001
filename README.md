@@ -88,4 +88,11 @@ Checkmarks:
 |right|left|center|
 |right|left|center|
 
+## Images
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")  
+![Alt text](http://full/path/to/img.jpg "Optional title")  
+
+![Alt text](/relative/path/to/icon.svg?raw=true&sanitize=true "Optional title")  
+
 -->
