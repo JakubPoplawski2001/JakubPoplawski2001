@@ -5,7 +5,9 @@ Here are my school / academic projects. If you want to see my other work go to p
 -->
 
 ## Hey! I'm Jakub 😄
-<img width="20%" align="right" alt="CatProgrammer" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
+<a href="https://giphy.com/stickers/kawaii-hiiii-cat-lGhBlBMIN2XsEteTN3">
+  <img width="30%" align="right" alt="CatProgrammerWaving" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif">
+</a>
 <i>Computer Science Student</i> 👨‍🎓
 
 
@@ -14,13 +16,12 @@ Passionate programmer with a keen interest in mobile app and game development.
 With a calm and focused approach, constantly seeking ways to enhance the experience for both users and developers.
 As a well-organized student, I am looking for opportunity to contribute my technical skills and creative mindset to deliver exceptional results.
 
-
-### Skills
+### Skills 
 <p>
   <b>Languages:</b>
   <p>
     <a href="https://skillicons.dev">
-      <img height="32" align="center" alt="lerning..." src="https://skillicons.dev/icons?i=cs,py,java,mysql" />
+      <img height="32" align="center" alt="Languages" src="https://skillicons.dev/icons?i=cs,py,java,mysql" />
     </a>
   </p>
   
@@ -36,7 +37,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
   <b>Frameworks:</b><br />
   <p>
     <a href="https://skillicons.dev">
-      <img height="32" align="center" alt="lerning..." src="https://skillicons.dev/icons?i=dotnet,sqlite" />
+      <img height="32" align="center" alt="Framewoks" src="https://skillicons.dev/icons?i=dotnet,sqlite" />
     </a>
   </p>
 </p>
@@ -45,7 +46,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
   <b>Programs:</b>
   <p>
     <a href="https://skillicons.dev">
-      <img height="32" align="center" alt="lerning..." src="https://skillicons.dev/icons?i=unity,figma,visualstudio" />
+      <img height="32" align="center" alt="Programs" src="https://skillicons.dev/icons?i=unity,figma,visualstudio" />
     </a>
   </p>
 </p>
@@ -55,19 +56,26 @@ As a well-organized student, I am looking for opportunity to contribute my techn
 ### I'm currently learning:
 <p>
   <a href="https://skillicons.dev">
-    <img height="32" align="center" alt="lerning..." src="https://skillicons.dev/icons?i=unity,swift,java,html" />
+    <img height="32" align="center" alt="Learning" src="https://skillicons.dev/icons?i=unity,swift,java,html" />
   </a>
 </p>
 
 ### I want to lern:
 <p>
   <a href="https://skillicons.dev">
-    <img height="32" align="center" alt="lerning..." src="https://skillicons.dev/icons?i=html,js,css,androidstudio,kotlin,angular" />
+    <img height="32" align="center" alt="LearningList" src="https://skillicons.dev/icons?i=html,js,css,androidstudio,kotlin,angular" />
   </a>
 </p>
 
+<p>
+<a href="https://giphy.com/stickers/work-laptop-busy-80dIUvgluhCGuHKjBP">
+  <img width="20%" alt="CatProgrammer" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FwZmJ3cHI3bzRyZWF6MXhtanNhOG93aG4zMWZ1Y2dzMW0xa2RjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/80dIUvgluhCGuHKjBP/giphy.gif">
+</a>
 
-
+<a href="https://giphy.com/stickers/typing-hacking-webs-5aYfJYohCSeYgtVlUj">
+  <img width="20%" alt="CatProgrammer" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNoeDB1dHV6eTU4eWZ5ZnprOHAyNmsyMmFqMjJtMWdxbzdrYmpwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5aYfJYohCSeYgtVlUj/giphy.gif">
+</a>
+</p>
 
 
 <!--
