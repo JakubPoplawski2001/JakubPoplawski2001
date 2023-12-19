@@ -16,7 +16,46 @@ Passionate programmer with a keen interest in mobile app and game development.
 With a calm and focused approach, constantly seeking ways to enhance the experience for both users and developers.
 As a well-organized student, I am looking for opportunity to contribute my technical skills and creative mindset to deliver exceptional results.
 
+<!--
+<a href="https://giphy.com/stickers/happy-kawaii-computer-hiJ9ypGI5tIKdwKoK2">
+  <img width="30%" align="left" alt="CatProgrammerCoding" src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif">
+</a>
+-->
+
 ### Skills 
+
+<!--
+<table align="right">
+  <tr height="64">
+    <td><b>Languages</b></th>
+    <td width="480">
+      <a href="https://skillicons.dev">
+        <img height="32" align="center" alt="Languages" src="https://skillicons.dev/icons?i=cs,py,java,mysql" />
+      </a>
+    </td>
+  </tr>
+  
+  <tr height="64">
+    <td> <b>Frameworks</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img height="32" align="center" alt="Framewoks" src="https://skillicons.dev/icons?i=dotnet,sqlite" />
+      </a>
+    </td>
+  </tr>
+  
+  <tr height="64">
+    <td><b>Programs</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img height="32" align="center" alt="Programs" src="https://skillicons.dev/icons?i=unity,figma,visualstudio" />
+      </a>
+    </td>
+  </tr>
+</table>
+-->
+
+
 <p>
   <b>Languages:</b>
   <p>
@@ -24,7 +63,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
       <img height="32" align="center" alt="Languages" src="https://skillicons.dev/icons?i=cs,py,java,mysql" />
     </a>
   </p>
-  
+
   <!-- Add .NET to assets directory -->
   <!--
   <img height="32" align="center" alt="C#" src="https://github.com/jakpop11/jakpop11/blob/main/Assets/Icons/c_sharp.svg"> |
@@ -34,7 +73,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
 </p>
 
 <p>
-  <b>Frameworks:</b><br />
+  <b>Frameworks:</b>
   <p>
     <a href="https://skillicons.dev">
       <img height="32" align="center" alt="Framewoks" src="https://skillicons.dev/icons?i=dotnet,sqlite" />
