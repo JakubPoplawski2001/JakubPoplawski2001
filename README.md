@@ -95,7 +95,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
 ### I'm currently learning:
 <p>
   <a href="https://skillicons.dev">
-    <img height="32" align="center" alt="Learning" src="https://skillicons.dev/icons?i=unity,swift,java,html" />
+    <img height="32" align="center" alt="Learning" src="https://skillicons.dev/icons?i=unity,swift,java,html,js" />
   </a>
 </p>
 
