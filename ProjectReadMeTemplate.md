@@ -36,6 +36,11 @@
     <img height="32" align="center" alt="Python-logo-notext" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/64px-Python-logo-notext.svg.png"></a>
 </h3>
 -->
+<p>
+  <a href="https://skillicons.dev">
+    <img height="32" align="center" alt="Languages" src="https://skillicons.dev/icons?i=cs,py,java,mysql" />
+  </a>
+</p>
 
 ## Installation
 
