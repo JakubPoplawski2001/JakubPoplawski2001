@@ -4,6 +4,7 @@
 Here are my school / academic projects. If you want to see my other work go to profile [jakpop11](https://github.com/jakpop11)
 -->
 
+
 ## Hey! I'm Jakub 😄
 <a href="https://giphy.com/stickers/kawaii-hiiii-cat-lGhBlBMIN2XsEteTN3">
   <img width="30%" align="right" alt="CatProgrammerWaving" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif">
@@ -16,46 +17,8 @@ Passionate programmer with a keen interest in mobile app and game development.
 With a calm and focused approach, constantly seeking ways to enhance the experience for both users and developers.
 As a well-organized student, I am looking for opportunity to contribute my technical skills and creative mindset to deliver exceptional results.
 
-<!--
-<a href="https://giphy.com/stickers/happy-kawaii-computer-hiJ9ypGI5tIKdwKoK2">
-  <img width="30%" align="left" alt="CatProgrammerCoding" src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif">
-</a>
--->
 
 ### Skills 
-
-<!--
-<table align="right">
-  <tr height="64">
-    <td><b>Languages</b></th>
-    <td width="480">
-      <a href="https://skillicons.dev">
-        <img height="32" align="center" alt="Languages" src="https://skillicons.dev/icons?i=cs,py,java,mysql" />
-      </a>
-    </td>
-  </tr>
-  
-  <tr height="64">
-    <td> <b>Frameworks</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img height="32" align="center" alt="Framewoks" src="https://skillicons.dev/icons?i=dotnet,sqlite" />
-      </a>
-    </td>
-  </tr>
-  
-  <tr height="64">
-    <td><b>Programs</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img height="32" align="center" alt="Programs" src="https://skillicons.dev/icons?i=unity,figma,visualstudio" />
-      </a>
-    </td>
-  </tr>
-</table>
--->
-
-
 <p>
   <b>Languages:</b>
   <p>
@@ -64,7 +27,6 @@ As a well-organized student, I am looking for opportunity to contribute my techn
     </a>
   </p>
 
-  <!-- Add .NET to assets directory -->
   <!--
   <img height="32" align="center" alt="C#" src="https://github.com/jakpop11/jakpop11/blob/main/Assets/Icons/c_sharp.svg"> |
   <img height="32" align="center" alt="python" src="https://github.com/jakpop11/jakpop11/blob/main/Assets/Icons/python.svg"> |
@@ -85,27 +47,40 @@ As a well-organized student, I am looking for opportunity to contribute my techn
   <b>Programs:</b>
   <p>
     <a href="https://skillicons.dev">
-      <img height="32" align="center" alt="Programs" src="https://skillicons.dev/icons?i=unity,figma,visualstudio" />
+      <img height="32" align="center" alt="Programs" src="https://skillicons.dev/icons?i=unity,figma,visualstudio,idea" />
     </a>
   </p>
 </p>
 
 ---
 
-### I'm currently learning:
+
+### Working on:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakpop11&repo=dMb&theme=dracula)](https://github.com/jakpop11/dMb)
+- Academic projects
+- Unity board game
+
+<a href="https://giphy.com/stickers/happy-kawaii-computer-hiJ9ypGI5tIKdwKoK2">
+  <img width="30%" alt="CatProgrammerCoding" src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif">
+</a>
+
+
+### Learning:
 <p>
   <a href="https://skillicons.dev">
     <img height="32" align="center" alt="Learning" src="https://skillicons.dev/icons?i=unity,swift,java,html,js" />
   </a>
 </p>
 
-### I want to lern:
+
+### Want to learn:
 <p>
   <a href="https://skillicons.dev">
     <img height="32" align="center" alt="LearningList" src="https://skillicons.dev/icons?i=html,js,css,androidstudio,kotlin,angular" />
   </a>
 </p>
 
+<!--
 <p>
 <a href="https://giphy.com/stickers/work-laptop-busy-80dIUvgluhCGuHKjBP">
   <img width="20%" alt="CatProgrammer" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FwZmJ3cHI3bzRyZWF6MXhtanNhOG93aG4zMWZ1Y2dzMW0xa2RjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/80dIUvgluhCGuHKjBP/giphy.gif">
@@ -115,7 +90,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
   <img width="20%" alt="CatProgrammer" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNoeDB1dHV6eTU4eWZ5ZnprOHAyNmsyMmFqMjJtMWdxbzdrYmpwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5aYfJYohCSeYgtVlUj/giphy.gif">
 </a>
 </p>
-
+-->
 
 <!--
 ## Headers
